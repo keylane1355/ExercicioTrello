@@ -1,0 +1,29 @@
+
+/*seletor*/
+body{
+    color: #000000;
+    background-color: #746cbe;
+    font-size: 30px;
+}
+
+#foto{
+    width: 150px;
+    border-radius: 10px;
+    border-top: 5px double red;
+}
+
+/* cores originais 
+texto #000000
+fundo #746cbe
+
+cor dia 
+texto #dfd32f 
+fundo #a6bcf8
+
+cor tarde 
+texto  #1408c0
+fundo #df702f
+
+cor noite 
+texto #bebec5
+fundo #04012e */
