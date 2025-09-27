@@ -1,0 +1,17 @@
+ body{
+    background-color: #b1e39d;
+    text-align: center;
+}
+
+#painel_formulario{
+    background-color: #3ea6c0;
+    margin: 40px;
+    padding: 10px;
+}
+
+#painel_resultado{
+    background-color: #5254e3;
+    margin: 40px;
+    padding: 10px;
+    display: none;
+}
